@@ -1,0 +1,14 @@
+#include <iostream>
+ 
+using namespace std;
+ 
+int main() {
+ 
+   double A,B;
+   cin >> A >> B;
+  double avg = (A/11 * 3.5) + (B/11 * 7.5);
+
+   cout<<"MEDIA = "<<avg<<endl;
+ 
+    return 0;
+}
