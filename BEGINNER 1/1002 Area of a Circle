@@ -6,6 +6,6 @@ int main() {
  
     double R,n=3.14159;
     cin >> R;
-    cout <<"A="<<n*R*R;
+    cout <<"A="<<n*R*R<<endl;
     return 0;
 }
