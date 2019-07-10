@@ -1,0 +1,12 @@
+#include <iostream>
+ 
+using namespace std;
+ 
+int main() {
+ 
+   float A,B,C;
+   cin >> A >> B >> C;
+   cout<<"MEDIA = "<<((2*A) + (3*B) + (5*C)) / 10<<endl;
+ 
+    return 0;
+}
